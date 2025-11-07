@@ -28,8 +28,9 @@ Email Me 👉 ✉️ **sumanshee39190@gmail.com** For Collaboration/Project or A
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumanshee39190&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sumanshee39190&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=for-the-badge&labelColor=000000" alt="Profile views"/>
 </p>
+
 
 
 # 💻 Tech Stack:
